@@ -8,6 +8,10 @@ This project has two services -
 * payment-service 
   (https://github.com/deepakbhalla/microservices-full-pack-examples/tree/master/microservices_getting_started/payment-service)
 
+To get started, Order Service makes a call to Payment service using 'Rest Template' and uses full service address. In the next examples, this will be replaced with service registries where microservices will discover each other by their registered name rather than IP address and port.
+
+But this project can be referred to just get started.
+
 ## Order service 
 - Accepts the order request and updates ORDER_TB table which is present in h2 database of this service.
 - Makes a call to Payment Service which acts as 'payment gateway' to make a payment against this order.
