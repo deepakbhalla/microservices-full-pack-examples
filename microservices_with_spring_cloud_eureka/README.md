@@ -30,7 +30,7 @@ Order Service makes a call to Payment service using 'Rest Template' and uses it'
 
 ## Testing Screenshots
 
-* H2 Database of Order Service
+* Eureka Server Dashboard
 
 ![image-text](screenshots/1_eureka_server_registered_services.png)
 
