@@ -1,5 +1,5 @@
 
-# Microservice communication - Getting Started
+# Microservice with Spring Cloud Eureka Service Registry and Discovery
 
 This project has two services -
 
