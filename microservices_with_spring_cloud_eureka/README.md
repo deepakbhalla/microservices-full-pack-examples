@@ -1,15 +1,11 @@
 
 # Microservices with Spring Cloud Eureka Service Registry and Discovery
 
-This project has two services -
+This project has three services -
 
 * service-registry
-  (https://github.com/deepakbhalla/microservices-full-pack-examples/tree/master/microservices_with_spring_cloud_eureka/sevice-registry)
 * order-service 
-  (https://github.com/deepakbhalla/microservices-full-pack-examples/tree/master/microservices_getting_started/order-service)
 * payment-service 
-  (https://github.com/deepakbhalla/microservices-full-pack-examples/tree/master/microservices_getting_started/payment-service)
-
 
 ## Eureka Server
 Service Registry is the Eureka Server which acts a registry of all the microservice applications. It exposes a dashboard at path 'http://localhost:8761/' by default.
