@@ -19,22 +19,22 @@ This project has two services -
 
 ## Testing Screenshots
 
-H2 Database of Order Service
-<br />
+* H2 Database of Order Service
+
 ![image-text](screenshots/1_order_service_h2_console.png)
 
-H2 Database of Payment Service
+* H2 Database of Payment Service
 
 ![image-text](screenshots/2_payment_service_h2_console.png)
 
-Order Service Call Request (which internally calls Payment Service)
+* Order Service Call Request (which internally calls Payment Service)
 
 ![image-text](screenshots/3_order_service_calling_payment_service.png)
 
-H2 Database of Order Service post order has been placed
+* H2 Database of Order Service post order has been placed
 
 ![image-text](screenshots/4_order_service_h2_post_service_call.png)
 
-H2 Database of Payment Service post Payment has been processed
+* H2 Database of Payment Service post Payment has been processed
 
 ![image-text](screenshots/5_payment_service_h2_post_service_call.png)
